@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-<h1 align="center">Hi 👋, I'm Manan Mehra</h1>
+<h1 align="center">Hi 👋, I'm Manan Singh Mehra</h1>
 <h3 align="center">Balancing Act: Striding towards Academic, Social, and Personal Excellence</h3>
 <img align="right" alt="Coding" width="400" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png">
 <p align="left"> <a href="https://twitter.com/mananmehra_01" target="blank"><img src="https://img.shields.io/twitter/follow/mananmehra_01?logo=twitter&style=for-the-badge" alt="mananmehra_01" /></a> </p>
