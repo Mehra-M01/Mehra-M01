@@ -5,13 +5,11 @@
 <img align="right" alt="Coding" width="400" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png">
 <p align="left"> <a href="https://twitter.com/mananmehra_01" target="blank"><img src="https://img.shields.io/twitter/follow/mananmehra_01?logo=twitter&style=for-the-badge" alt="mananmehra_01" /></a> </p>
 
-- 🔭 I’m currently working on **AI-Based Weed Detection and Control System**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Computer Vision,Natural Language Processing**
+- 🌱 I’m currently learning **Cloud Compute Framework.**
 
-- 👯 I’m looking to collaborate on **interesting machine learning and python projects**
-
-- 🤝 I’m looking for help with **machine learning,NLP**
+- 👯 I’m looking to collaborate on **interesting projects**
 
 - 📫 How to reach me **mananmehra82@gmail.com**
 
